@@ -44,7 +44,20 @@
   margin-left: -70px;
   left: 50%;
 }
-
+.name-btn{
+  position: absolute;
+  padding: 12px 30px;
+  color: rgba(255, 255, 255, 1);
+  background-color: rgba(255, 255, 255, 0);
+  outline: none;
+  border: 2px solid rgba(255, 255, 255, 0);
+  font-weight: bold;
+  font-size: 30px;
+  cursor: pointer;
+  top: 40%;
+  margin-left: -70px;
+  left: 50%;
+    
 .email-btn{
   position: absolute;
   padding: 10px 30px;
